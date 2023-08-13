@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @naufalrayfi, a Binus University Student
-- 👀 I’m interested in Android development, Data Analysis, and Artifical Intelligence
-- 🌱 I’m currently learning Android development
+- 👋 Hi, I’m @naufalrayfi, a Web Developer
+- 👀 I’m currently interested in Web Development
+- 🌱 I’m currently learning to deploy web projects
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me by emailing me, naufalrayfi@gmail.com
 
